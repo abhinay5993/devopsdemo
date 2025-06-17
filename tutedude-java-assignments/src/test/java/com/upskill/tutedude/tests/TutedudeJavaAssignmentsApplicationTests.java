@@ -1,4 +1,4 @@
-package com.upskill.tutedude_java_assignments;
+package com.upskill.tutedude.tests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

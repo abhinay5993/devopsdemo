@@ -22,6 +22,7 @@ import java.util.Scanner;
  * Smallest element: 10
  * 
  */
+
 public class Question2ArrayOperations {
 
 	public static int[] inputArray;

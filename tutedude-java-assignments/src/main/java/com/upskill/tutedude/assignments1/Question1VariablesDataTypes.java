@@ -19,6 +19,7 @@ package com.upskill.tutedude.assignments1;
  * String concatenation result: Hello, world!
  * 
  */
+
 public class Question1VariablesDataTypes {
 
 	public static void main(String[] args) {
